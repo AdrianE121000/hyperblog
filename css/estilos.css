@@ -28,7 +28,9 @@ body {
     padding: 0.5em;
 }
 
-#post {}
+#post {
+    font-size: 1em;
+}
 
 #tagline {
     padding: 0 0 0 1em;
